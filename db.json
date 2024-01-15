@@ -1,0 +1,36 @@
+{
+  "vehicles": [
+    {
+      "country": "CAN",
+      "model_year": 2003,
+      "body_style": "Sedan",
+      "engine": "W8",
+      "transmission": "Tip",
+      "drive": "4Mo"
+    },
+    {
+      "country": "USA",
+      "model_year": 2004,
+      "body_style": "Wagon",
+      "engine": "1.8t",
+      "transmission": "5 spd",
+      "drive": "FWD"
+    },
+    {
+      "country": "USA",
+      "model_year": 2003,
+      "body_style": "Sedan",
+      "engine": "V6",
+      "transmission": "Tip",
+      "drive": "4Mo"
+    },
+    {
+      "country": "USA",
+      "model_year": 2003,
+      "body_style": "Sedan",
+      "engine": "V6",
+      "transmission": "5 spd",
+      "drive": "4Mo"
+    }
+  ]
+}
